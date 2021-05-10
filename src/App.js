@@ -1,13 +1,14 @@
-import "./App.css";
 import Header from "./components/Header";
-import ListContainer from "./components/ListContainer";
+// import Search from "./components/Search";
+import SearchResults from "./components/SearchResults";
+
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Header />
-
-      <ListContainer />
+      {/* <Search /> */}
+      <SearchResults />
     </div>
   );
 }

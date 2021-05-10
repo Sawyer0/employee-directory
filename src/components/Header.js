@@ -6,7 +6,7 @@ const styles = {
     header: {
         fontFamily: "'Montserrat', sans- serif",
         margin: 0,
-        background: "black",
+        background: "#020234",
         minHeight: 150,
         textAlign: "center",
         borderBottom: "4px solid red"
